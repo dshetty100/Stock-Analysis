@@ -10,23 +10,23 @@ The analysis was performed using the green-energy stock dataset in a tabulated f
 
 ## Results
 
-- It is observed from the analysis of stocks for the year 2017 that:
+- For the year 2017, it is observed that:
   1. All stocks reported a postive return, except for the the "TERP" stock, which had a negative return of -7.2%.
   2. The stock that showed the highest return was "DQ", and it had the lowest total daily volume among all stocks.
 
-- It is observed from the analysis of stocks for the year 2018 that:
+- For the year 2018, it is observed that:
 
   1. Most stocks (including "DQ") had negative returns, except for the stocks "ENPH" and "RUN" which report a postive return of 81.9% and 84%, respectively. Both stocks also had     the highest total daily volume. 
   2. The stock "DQ" was the poorest perfoming stock and had a return of -62.6%.
    
-- It was also observed that the original code that was written to analyze the stock data took 0.719s  and 0.391 s to run for the year 2017 and 2018, respectively.
+- The original code that was written to analyze the stock data took approximately 0.719 s for the year 2017, and 0.391 s for the year 2018, to run.
 
-- The refactored code took less time to run the same analysis. The refactored code can be found here, github.com/dshetty100/Stock-Analysis 
+- The refactored code took less time to run the same analysis and the detailed code can be found here, github.com/dshetty100/Stock-Analysis 
 - 
-  1. It took 0.391 s to run the refactored code for the year 2017. A screen shot of the performance result is as shown below.
+  1. It took 0.391 s for the refactored code to run for the year 2017. A screen shot of the performance result is as shown below.
   ![Figure 1](/resources/VBA_Challenge_2017.png)
 
-  2. It took 0.101 s to run the refactored code for the year 2018. A screen shot of the performance result is as shown below.
+  2. It took 0.101 s for the refactored code to run for the year 2018. A screen shot of the performance result is as shown below.
   ![Figure 1](/resources/VBA_Challenge_2018.png)
 
 
