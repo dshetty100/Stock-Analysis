@@ -24,9 +24,11 @@ The analysis was performed using the green-energy stock dataset in a tabulated f
 - The refactored code took less time to run the same analysis and the detailed code can be found here, https://github.com/dshetty100/Stock-Analysis 
 - 
   1. It took 0.391 s for the refactored code to run for the year 2017. A screen shot of the performance result is as shown below.
+  
   ![Figure 1](/resources/VBA_Challenge_2017.png)
 
   2. It took 0.101 s for the refactored code to run for the year 2018. A screen shot of the performance result is as shown below.
+  
   ![Figure 1](/resources/VBA_Challenge_2018.png)
 
 
