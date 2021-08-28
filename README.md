@@ -1,9 +1,9 @@
 # Analysis of green-energy stocks dataset
 
 ## Overview of the Project
-The purpose of this project was to assist Steve in analyzing green energy stocks for their total daily volume (number of time it was traded) 
-and return (performances) for the year 2017 and 2018. The purpose was also to compare the original code that was written for the above analysis with 
-a refactored code to determine the performance between the two codes.
+The purpose of this project was to assist Steve in analyzing green-energy stocks for their total daily volume (number of time it was traded) 
+and return (performances) for the year 2017 and 2018. The purpose was also to compare the original code, that was written for the above analysis, with 
+a refactored code and determine the performance between the two codes.
  
 The analysis was performed using the green-energy stock data set which contained a list of ticker symbol and the daily volume for each stock for 2017 and 2018 in a tabulated form.
 
