@@ -25,11 +25,11 @@ The analysis was performed using the green-energy stock dataset in a tabulated f
 
   1. It took 0.391 s for the refactored code to run for the year 2017. A screen shot of the performance result is as shown below.
   
-  ![Figure 1](/resources/VBA_Challenge_2017.png)
+  ![Figure 1](/Resources/VBA_Challenge_2017.png)
 
   2. It took 0.101 s for the refactored code to run for the year 2018. A screen shot of the performance result is as shown below.
   
-  ![Figure 1](/resources/VBA_Challenge_2018.png)
+  ![Figure 1](/Resources/VBA_Challenge_2018.png)
 
 
 ## Summary
